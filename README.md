@@ -1,3 +1,5 @@
+Поиск врагов на основе ИИ
+
 Goal Oriented Action Planning AI (GOAP)
 Creator: Brent Owens sploreg.com @Sploreg
 
